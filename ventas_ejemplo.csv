@@ -1,0 +1,11 @@
+Date,OrderID,Product,Category,Region,UnitsSold,UnitPrice,UnitCost
+2024-01-05,ORD001,Widget A,Widgets,North,10,25.0,15.0
+2024-01-07,ORD002,Widget B,Widgets,South,5,30.0,18.0
+2024-01-10,ORD003,Gadget X,Gadgets,East,2,120.0,80.0
+2024-01-11,ORD004,Widget A,Widgets,West,7,25.0,15.0
+2024-01-15,ORD005,Gadget Y,Gadgets,North,1,200.0,120.0
+2024-02-03,ORD006,Widget C,Widgets,South,12,20.0,10.0
+2024-02-10,ORD007,Gadget X,Gadgets,East,3,120.0,80.0
+2024-02-14,ORD008,Widget B,Widgets,North,4,30.0,18.0
+2024-03-01,ORD009,Accessory Z,Accessories,West,20,5.0,2.0
+2024-03-05,ORD010,Widget A,Widgets,East,6,25.0,15.0
